@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(Frosty.PNG);
+    background: url(GlacierScratch.PNG);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -54,7 +54,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(StickmodGlacier.png);
+    background: url(DarkSticksMod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
